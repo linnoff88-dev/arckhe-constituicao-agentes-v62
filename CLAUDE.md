@@ -1,9 +1,9 @@
-# CLAUDE.md — constituicao-agentes-v62
+﻿# CLAUDE.md â€” constituicao-agentes-v62
 
-Curso formato-curso-v6 (edição 6.2), 5 aulas, PT + en/ + es/. Fonte: kit `inematds/constituicao-agentes`.
-Repo `inematds/constituicao-agentes-v62`, autor `inematds <inematds@gmail.com>`, Pages por Actions (raiz).
-Ordem: editar `aulas/` → `montar-curso.py .` → `traduzir-curso.py . en es` → auditar/testar os 3 `curso.html`.
-Currículo, vocabulário e decisões: `context/curriculo.md`, `context/correcoes-leitor-1.md`, `context/leitor-simulado.md`.
+Curso formato-curso-v6 (ediÃ§Ã£o 6.2), 5 aulas, PT + en/ + es/. Fonte: kit `linnoff88-dev/constituicao-agentes`.
+Repo `linnoff88-dev/constituicao-agentes-v62`, autor `linnoff88-dev <linnoff88-dev@gmail.com>`, Pages por Actions (raiz).
+Ordem: editar `aulas/` â†’ `montar-curso.py .` â†’ `traduzir-curso.py . en es` â†’ auditar/testar os 3 `curso.html`.
+CurrÃ­culo, vocabulÃ¡rio e decisÃµes: `context/curriculo.md`, `context/correcoes-leitor-1.md`, `context/leitor-simulado.md`.
 
 ## Self-learning
 
@@ -11,4 +11,4 @@ When I correct you, or you catch yourself making a mistake: before continuing, a
 
 ## Lessons
 
-- O tradutor deixou o nome do documento "Constituição do agente" em PT no `en/curso.html` (corrigido à mão para "Agent constitution"); depois de retraduzir, `grep -c "ção" en/curso.html` tem que dar 0. (13/10/2026)
+- O tradutor deixou o nome do documento "ConstituiÃ§Ã£o do agente" em PT no `en/curso.html` (corrigido Ã  mÃ£o para "Agent constitution"); depois de retraduzir, `grep -c "Ã§Ã£o" en/curso.html` tem que dar 0. (13/10/2026)

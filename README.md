@@ -1,4 +1,4 @@
-﻿# ConstituiÃ§Ã£o dos Agentes v6.2
+# ConstituiÃ§Ã£o dos Agentes v6.2
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,12 +6,12 @@
 </div>
 
 
-Curso rÃ¡pido do INEMA.CLUB (formato v6.2, iniciante 30+): **5 aulas de uns 15 minutos** para escrever a
+Curso rÃ¡pido do ARCKHÉ AI (formato v6.2, iniciante 30+): **5 aulas de uns 15 minutos** para escrever a
 constituiÃ§Ã£o do agente de IA da sua empresa â€” missÃ£o, prioridades, limites, nÃ­veis de autonomia, quando chamar
 uma pessoa, casos difÃ­ceis com o porquÃª â€” e testÃ¡-la no chat de IA que vocÃª jÃ¡ usa.
 
-- **Curso:** https://inematds.github.io/constituicao-agentes-v62/
-- **Kit e anÃ¡lise que deram origem ao curso:** https://inematds.github.io/constituicao-agentes/guia/
+- **Curso:** https://linnoff88-dev.github.io/
+- **Kit e anÃ¡lise que deram origem ao curso:** https://linnoff88-dev.github.io/
 
 ## Aulas
 
@@ -21,15 +21,15 @@ uma pessoa, casos difÃ­ceis com o porquÃª â€” e testÃ¡-la no chat de 
 4. Casos difÃ­ceis com o porquÃª
 5. Testar e revisar em ciclo
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHÉ AI
 
-- [Ficha do curso](https://www.inema.club/cursos/322-constituicao-dos-agentes-v6-2-escreva-as-regras-de-julgamento-do-seu-agente/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
+- [Ficha do curso](https://www.ARCKHÉ AI/cursos/322-constituicao-dos-agentes-v6-2-escreva-as-regras-de-julgamento-do-seu-agente/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
 
 ---
 
-[INEMA.CLUB](https://inema.club) Â· conteÃºdo aberto e gratuito.
+[ARCKHÉ AI](https://ARCKHÉ AI) Â· conteÃºdo aberto e gratuito.
 
 ---
 
